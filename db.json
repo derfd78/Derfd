@@ -1,0 +1,101 @@
+{
+  "subscriptions": [
+    {
+      "id": "43sjm",
+      "url": "https://www.vinted.fr/vetements?search_text=&brand_id[]=362&brand_id[]=441&price_to=22&currency=EUR&catalog[]=1811&catalog[]=267&catalog[]=196&catalog[]=190&size_id[]=2&size_id[]=3&size_id[]=4&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=1&status[]=2&order=newest_first",
+      "channelID": "939962790809063515"
+    },
+    {
+      "id": "l8kztc",
+      "url": "https://www.vinted.fr/vetements?search_text=&currency=EUR&catalog[]=1811&catalog[]=267&catalog[]=196&catalog[]=190&size_id[]=2&size_id[]=3&size_id[]=4&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=1&status[]=2&order=newest_first&price_to=18&brand_id[]=53",
+      "channelID": "939962790809063515"
+    },
+    {
+      "id": "7ext4",
+      "url": "https://www.vinted.fr/vetements?search_text=&currency=EUR&catalog[]=1081&catalog[]=1857&status[]=6&status[]=1&status[]=2&order=newest_first&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=3&size_id[]=4&size_id[]=2&brand_id[]=19741&price_to=45",
+      "channelID": "939962790809063515"
+    },
+    {
+      "id": "74czqv",
+      "url": "https://www.vinted.fr/vetements?search_text=&currency=EUR&catalog[]=1081&catalog[]=1857&status[]=6&status[]=1&status[]=2&order=newest_first&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=3&size_id[]=4&size_id[]=2&price_to=45&brand_id[]=2319",
+      "channelID": "939962790809063515"
+    },
+    {
+      "id": "uplbsl",
+      "url": "https://www.vinted.fr/vetements?search_text=&catalog[]=248&catalog[]=160&brand_id[]=88&brand_id[]=304&status[]=6&status[]=1&status[]=2&currency=EUR&price_to=16",
+      "channelID": "941354497752592504"
+    },
+    {
+      "id": "mrygqq",
+      "url": "https://www.vinted.fr/vetements?search_text=&order=newest_first&currency=EUR&brand_id[]=88&color_id[]=12&color_id[]=20&color_id[]=4&catalog[]=529&catalog[]=197&time=1645270704",
+      "channelID": "939962790809063515"
+    },
+    {
+      "id": "x0spdl",
+      "url": "https://www.vinted.fr/vetements?search_text=&brand_id[]=4615783&brand_id[]=4504076&order=newest_first&price_to=41&currency=EUR",
+      "channelID": "939962790809063515"
+    },
+    {
+      "id": "zxirk",
+      "url": "https://www.vinted.fr/vetements?search_text=&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=2&size_id[]=3&size_id[]=4&brand_id[]=53&brand_id[]=14&brand_id[]=362&status[]=6&status[]=1&status[]=2&catalog[]=572&catalog[]=582&order=newest_first&price_to=31&currency=EUR",
+      "channelID": "947043942522822706"
+    },
+    {
+      "id": "j5r03",
+      "url": "https://www.vinted.fr/vetements?search_text=&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=2&size_id[]=3&size_id[]=4&size_id[]=206&status[]=6&status[]=1&status[]=2&catalog[]=1811&catalog[]=267&catalog[]=1815&catalog[]=196&order=newest_first&price_to=26&currency=EUR&brand_id[]=362",
+      "channelID": "947043942522822706"
+    },
+    {
+      "id": "gcmz3q",
+      "url": "https://www.vinted.fr/vetements?search_text=&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=2&size_id[]=3&size_id[]=4&status[]=6&status[]=1&status[]=2&catalog[]=1811&catalog[]=267&catalog[]=1815&catalog[]=196&catalog[]=1812&catalog[]=1814&catalog[]=192&catalog[]=529&catalog[]=1066&order=newest_first&price_to=31&currency=EUR&brand_id[]=88&brand_id[]=304",
+      "channelID": "947043942522822706"
+    },
+    {
+      "id": "kubq2e",
+      "url": "https://www.vinted.fr/vetements?search_text=&catalog[]=1857&catalog[]=1081&size_id[]=2&size_id[]=3&size_id[]=4&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&brand_id[]=19741&price_to=61&currency=EUR&status[]=6&status[]=1&status[]=2&order=newest_first",
+      "channelID": "947043942522822706"
+    },
+    {
+      "id": "p79mqu",
+      "url": "https://www.vinted.fr/vetements?search_text=&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=2&size_id[]=3&size_id[]=4&size_id[]=206&status[]=6&status[]=1&status[]=2&catalog[]=1811&catalog[]=267&catalog[]=1815&catalog[]=196&order=newest_first&price_to=41&currency=EUR&brand_id[]=4615783",
+      "channelID": "947043942522822706"
+    },
+    {
+      "id": "3nir9u",
+      "url": "https://www.vinted.fr/vetements?search_text=&catalog[]=1081&catalog[]=1084&catalog[]=1857&catalog[]=1227&brand_id[]=88&brand_id[]=304&price_to=41&currency=EUR&size_id[]=2&size_id[]=3&size_id[]=4&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=1&status[]=2&order=newest_first",
+      "channelID": "947043942522822706"
+    },
+    {
+      "id": "g3l9y",
+      "url": "https://www.vinted.fr/vetements?search_text=&catalog[]=1081&catalog[]=1857&price_to=31&currency=EUR&size_id[]=2&size_id[]=3&size_id[]=4&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=1&status[]=2&order=newest_first&brand_id[]=53",
+      "channelID": "947043942522822706"
+    },
+    {
+      "id": "a4o6tt",
+      "url": "https://www.vinted.fr/vetements?search_text=&catalog[]=1226&catalog[]=1856&brand_id[]=88&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=1&status[]=2&order=newest_first&price_to=26&currency=EUR",
+      "channelID": "947043942522822706"
+    },
+    {
+      "id": "psyw7",
+      "url": "https://www.vinted.fr/vetements?search_text=&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=2&size_id[]=3&size_id[]=4&status[]=6&status[]=1&status[]=2&catalog[]=1811&catalog[]=267&catalog[]=1815&catalog[]=196&catalog[]=197&order=newest_first&price_to=21&currency=EUR&brand_id[]=94",
+      "channelID": "947043942522822706"
+    }
+  ],
+  "last_item_ts_43sjm": 1645865451000,
+  "last_item_ts_l8kztc": 1645865709000,
+  "last_item_ts_7ext4": 1645449648000,
+  "last_item_ts_74czqv": 1645863758000,
+  "last_item_ts_uplbsl": 1645854848000,
+  "last_item_ts_mrygqq": 1645270364000,
+  "last_item_ts_x0spdl": 1645830659000,
+  "is_first_sync": false,
+  "last_item_ts_zxirk": 1645866063000,
+  "last_item_ts_j5r03": 1645865805000,
+  "last_item_ts_gcmz3q": 1645865387000,
+  "last_item_ts_kubq2e": 1645449648000,
+  "last_item_ts_p79mqu": 1645541961000,
+  "last_item_ts_3nir9u": 1645865158000,
+  "last_item_ts_g3l9y": 1645809545000,
+  "last_item_ts_a4o6tt": 1645802066000,
+  "last_item_ts_psyw7": 1645865755000
+}
